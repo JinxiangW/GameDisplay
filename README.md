@@ -15,7 +15,7 @@
                     <a href="https://jinxiangw.github.io/GameDisplay/OK12">
                         <strong> Orbiting Knight Live Demo</strong>
                     </a>
-                <center>
+                </center>
             </td>
         </tr>
     </table>
