@@ -28,5 +28,6 @@
 **Control**:
 
 -   WASD to move the Orbiting Knight
+-   SPACE to advance
 -   Click on the screen to rotate the camera
 -   Scroll to zoom in and out
