@@ -11,9 +11,11 @@
         </tr>
         <tr>
             <td>
-                <a href="https://jinxiangw.github.io/GameDisplay/OK12">
-                    <strong>Orbiting Knight</strong>
-                </a>
+                <center>
+                    <a href="https://jinxiangw.github.io/GameDisplay/OK12">
+                        <strong> Orbiting Knight Live Demo</strong>
+                    </a>
+                <center>
             </td>
         </tr>
     </table>
@@ -26,5 +28,5 @@
 **Control**:
 
 -   WASD to move the Orbiting Knight
--   Click the screen to rotate camera
+-   Click on the screen to rotate the camera
 -   Scroll to zoom in and out
